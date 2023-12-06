@@ -1,5 +1,5 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"> Hi,I'm Gabriel Rawry</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 - 🔥 Web Developer & focused on helping people through programming 
 
